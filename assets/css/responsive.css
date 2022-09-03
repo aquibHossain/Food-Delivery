@@ -1,0 +1,522 @@
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1440px;
+
+    }
+}
+
+@media (max-width: 1440px) {
+    .feature-box i {
+        font-size: 38px;
+        margin-right: 8px;
+    }
+    .feature-box h3 {
+        font-size: 20px;
+    }
+    .feature-box {
+        padding: 34px 10px;
+    }
+    .search-bar select {
+        padding: 6.4px 55px 6.4px 6.4px;
+    }
+
+    .seach-section-right h3 {
+       font-size: 20px;
+    
+    }
+    .seach-section-right button {
+        margin-right: 10px;
+        padding: 15px 13px;
+    }
+    .banner-content p {
+        width: 100%;
+    }
+
+    .subscribe-bg form input {
+        width: 250px;
+    }
+    .banner-content button {
+        padding: 14px 44px;
+    }
+  
+
+    .banner-content h1 {
+        font-size: 70px;
+        line-height: 90px;
+    }
+
+    .countdown {
+        top: 32%;
+
+    }
+
+    .countdown #tiles>span {
+        width: 65px;
+        font-size: 21px;
+    }
+
+    .countdown #tiless>span {
+        width: 65px;
+        font-size: 21px;
+    }
+
+    .countdown #tile>span {
+        width: 65px;
+        font-size: 21px;
+    }
+
+    .countdown p {
+        font-size: 15px;
+    }
+
+    .footer_link_area,
+    .footer-left-part {
+        padding: 0 10px;
+    }
+     h3 {
+        font-size:23px ;
+    }
+}
+
+@media (max-width: 1199px) {
+
+    .implex-header-details span {
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Josefin Sans', sans-serif;
+        line-height: 10px;
+    }
+
+    .seach-section-right button i {
+        font-size: 15px;
+    }
+    .seach-section-right h3 {
+        font-size: 16px;
+     }
+     .seach-section-right p {
+        font-size: 14px;
+     }
+     .seach-section-right button {
+         margin-right: 10px;
+         padding: 15px 13px;
+     }
+
+    .banner-content h1 {
+        font-size: 96px;
+        line-height: 110px;
+    }
+
+    .countdown {
+        top: 25%;
+    }
+
+    .countdown #tiles>span {
+        width: 50px;
+        font-size: 18px;
+    }
+
+    .countdown #tiless>span {
+        width: 50px;
+        font-size: 18px;
+    }
+
+    .countdown #tile>span {
+        width: 50px;
+        font-size: 18px;
+    }
+
+    .countdown p {
+        font-size: 12px;
+    }
+
+    .implex-footer .row .col-12 {
+        padding: 12px;
+    }
+    .search-input {
+        font-weight: 500;
+        width: 16rem;
+    }
+
+}
+
+@media (max-width: 992px) {
+
+    .banner-content button {
+        padding: 18px 54px;
+    
+    }
+    .subscribe-bg form input {
+        width: 420px;
+    }
+
+    .subscribe-image {
+        margin: 0 auto;
+        display: block;
+        padding-top: 40px;
+    }
+
+    .seach-section-middle {
+        margin: 10px 0;
+    }
+
+    .header-details {
+        padding: 5px;
+    }
+
+    .seach-section-right {
+        position: absolute;
+        top: 15px;
+        right: 8%;
+    }
+
+    .seach-section-right button {
+        margin-top: 10px;
+    }
+ .banner-content{
+    padding-right: 0px;
+ }
+    .implex-banner {
+        background-image: url("./../images/banner/banner_bg.png");
+        padding: 80px 0 200px;
+    }
+
+    .slick-slide {
+        margin: 0 15px 0 15px;
+    }
+
+    .subscribe-bg form {
+
+        justify-content: center;
+
+    }
+
+    .subscribe-bg {
+        background-image: none;
+        height: 100%;
+        text-align: center;
+        padding: 0 20px;
+    }
+
+    .subscribe-bg .row .col-12 {
+        height: 100%;
+    }
+
+    .footer_heading_area {
+        margin-top: 15px;
+    }
+
+    .shadow {
+        margin-top: 25px;
+
+    }
+
+    .countdown {
+        top: 30%;
+
+    }
+
+    .countdown #tiles>span {
+        width: 60px;
+        font-size: 18px;
+    }
+
+    .countdown #tiless>span {
+        width: 60px;
+        font-size: 18px;
+    }
+
+    .countdown #tile>span {
+        width: 60px;
+        font-size: 18px;
+    }
+
+    .countdown p {
+        font-size: 12px;
+    }
+
+    .daily-deals-image-card {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .slick-prev:before {
+        left: 18px;
+    }
+
+    .footer_link_area,
+    .footer-left-part {
+        padding: 0 5px;
+    }
+
+    .install-map {
+        flex-wrap: wrap;
+    }
+
+    .footer_link_area img {
+        margin-left: 0px;
+    }
+
+    .header-section {
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .navbar-collapse {
+        position: absolute;
+        top: 110%;
+        background-color: #F5F5F5;
+        z-index: 9;
+        width: 75%;
+        padding: 5px 20px;
+        right: 20px;
+    }
+    .implex-search-section{
+        display: none;
+    }
+    .nav-md{
+        display: flex;
+        align-items: center;
+    }
+
+}
+
+@media (max-width: 767px) {
+   
+    .subscribe-section {
+        padding: 50px 0;
+    }
+
+    .implex-flash-deal {
+        padding: 50px 0;
+    }
+
+    .implex-daily-deals {
+        padding: 50px 0;
+    }
+
+    .implex-advertisement {
+        padding: 50px 0;
+    }
+
+    .implex-footer {
+        padding-top: 20px;
+        margin-top: 50px;
+    }
+
+    .search-bar {
+        width: 330px;
+        border-left: none;
+        border: none;
+        margin-bottom: 10px;
+    }
+
+    .search-section-logo {
+        width: 50%;
+    }
+
+    .implex-category {
+        margin-top: 50px;
+    }
+
+    .implex-banner {
+        padding: 60px 0 100px;
+    }
+
+    .implex-banner button {
+        margin-top: 0px;
+    }
+
+    .slick-slide {
+        margin: 0 0px 0 0;
+    }
+
+    .time {
+        min-width: 3.2rem;
+    }
+
+    .time p {
+        font-size: .8rem;
+    }
+
+    .banner-content {
+        margin-top: 15%;
+    }
+
+    .search-section-logo {
+        width: 25%;
+        margin-bottom: 20px;
+    }
+
+    .search-input {
+        font-weight: 500;
+        width: 16rem;
+    }
+
+    .seach-section-middle {
+        margin: 8px 0;
+    }
+
+    .header-details {
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .search-input {
+        padding: 15.9px;
+        border-radius: 7px 0px 0px 7px;
+    }
+
+    .seach-section-right {
+        top: 8px;
+        right: 10px;
+    }
+
+    .seach-section-right button i {
+        font-size: 17px;
+    }
+
+    .seach-section-right button {
+        margin-top: 10px;
+        padding: 12px;
+    }
+
+
+    .seach-section-right p {
+        font-size: 11px;
+        line-height: 30px;
+    }
+
+    .seach-section-right h3 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .implex-banner .row {
+        align-items: flex-start;
+    }
+
+    .subscribe-bg h2 {
+        font-size: 26px;
+        line-height: 35px;
+        margin-top: 15px;
+
+    }
+
+    .subscribe-bg form input {
+        width: 180px;
+    }
+
+    .footer_heading_area {
+        flex-wrap: wrap;
+    }
+
+    .footer_link_area {
+        margin-top: 8px;
+        width: 100%;
+    }
+
+    .copyright-area .container {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer_link_area,
+    .footer-left-part {
+        padding: 0 10px 0 0;
+    }
+
+    .footer_link_area li {
+        margin: 8px 0;
+    }
+
+    .copyright-area .container {
+        padding: 5px 0;
+    }
+
+    .footer_link_area h3 span {
+        padding-bottom: 5px;
+    }
+
+    .footer_link_area h3 {
+        margin-bottom: 15px;
+    }
+
+    .footer-margin {
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+
+    .footer_link_area img {
+        margin-top: 5px;
+        margin-left: 8px;
+    }
+
+    .copyright-area p {
+        font-size: 13px;
+    }
+
+    .daily-deals-image-card {
+        width: 100%;
+
+    }
+
+    .slick-prev {
+        display: none !important;
+    }
+
+    .slick-next {
+        display: none !important;
+    }
+
+    .countdown {
+        position: relative;
+        top: -7%;
+    }
+
+    .implex-flash-deal .card-body {
+        margin-top: -15%;
+    }
+.implex-header-details{
+    display: none;
+}
+}
+
+@media (max-width: 576px) {
+
+    .banner-content {
+        margin-top: 4%;
+    }
+   
+
+}
+
+@media (max-width: 480px) {
+    h2 {
+        font-size: 35px;
+    }
+    .shadow {
+        margin-top: 10px;
+
+    }
+
+    .banner-content {
+        margin-top: 5%;
+    }
+
+    .banner-content h1 {
+        font-size: 68px;
+        line-height: 85px;
+    }
+
+
+
+}
+
+@media (max-width: 361px) {}
